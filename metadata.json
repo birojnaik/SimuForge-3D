@@ -1,0 +1,6 @@
+{
+  "name": "SimuForge 3D",
+  "description": "A 3D physics simulation and VFX animation suite powered by mathematical solvers for SPH fluid dynamics, Verlet cloth mechanics, and N-body gravity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

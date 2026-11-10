@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">SimuForge 3D</string>
+    <string name="suite_subtitle">Mathematical 3D Physics &amp; VFX Simulation Engine</string>
+    <string name="mode_fluid_sph">SPH Fluid</string>
+    <string name="mode_cloth_verlet">Verlet Cloth</string>
+    <string name="mode_gravity_nbody">N-Body Gravity</string>
+    <string name="mode_coupled_vfx">Coupled VFX</string>
+    <string name="shading_lit_solid">Lit Shaded</string>
+    <string name="shading_wireframe">Wireframe</string>
+    <string name="shading_velocity_map">Velocity Field</string>
+    <string name="shading_stress_pressure">Pressure / Stress</string>
+    <string name="interaction_orbit">Orbit Camera</string>
+    <string name="interaction_force">3D Force Brush</string>
+    <string name="interaction_collider">Move Collider</string>
+    <string name="interaction_emitter">Spawn / Emit</string>
+    <string name="action_play">Play Simulation</string>
+    <string name="action_pause">Pause Simulation</string>
+    <string name="action_step_back">Step Backward</string>
+    <string name="action_step_forward">Step Forward</string>
+    <string name="action_reset">Reset Solver</string>
+    <string name="action_impulse">Inject Shockwave</string>
+    <string name="action_sensor_gravity">Tilt Gravity</string>
+    <string name="action_equations">Math Inspector</string>
+    <string name="tab_parameters">Solver Params</string>
+    <string name="tab_presets">Scene Presets</string>
+    <string name="tab_telemetry">Energy &amp; Math</string>
+    <string name="tab_keyframes">VFX Keyframes</string>
+    <string name="cd_banner_preview">3D Simulation Visual Banner</string>
+    <string name="cd_viewport_canvas">Interactive 3D Physics Viewport Canvas</string>
+</resources>
